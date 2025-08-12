@@ -34,7 +34,7 @@ YourHR is a job search service that provides a simple and user-friendly platform
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/rushikeshwayal/YourHR.git
+    git clone https://github.com/BhumikaBarange/YourHR.git
     cd YourHR
     ```
 
@@ -122,6 +122,6 @@ Feel free to open issues or submit pull requests if you find any bugs or have su
 
 For any questions or feedback, please reach out to:
 
-- **Email:** rushikeshwayal6@gmail.com
-- **GitHub:** [rushikeshwayal](https://github.com/yourusername)
+- **Email:** atharvbhavsar2003@gmail.com
+- **GitHub:** [Bhumika Barange](https://github.com/BhumikaBarange/YourHR.git)
 
